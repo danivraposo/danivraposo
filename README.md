@@ -16,7 +16,7 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
 
 ---
 
-## ⚔️ A minha Fellowship (Stack)
+## A minha Fellowship (Stack)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,postgres,docker,linux,laravel,js,powershell,arduino,android&theme=dark" />
@@ -24,7 +24,7 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
 
 ---
 
-## 🗺️ A minha humilde Jornada (Projetos)
+## A minha humilde Jornada (Projetos)
 
 | | Projeto | Descrição | Stack |
 |--|---------|-----------|-------|
@@ -35,7 +35,7 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
 
 ---
 
-## 📜 Nos registos de Minas Tirith (GitHub Stats)
+## Nos registos de Minas Tirith (GitHub Stats)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danivraposo&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&border=c9a84c" />
@@ -43,7 +43,7 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
 
 ---
 
-## 📬 Encontra-me no Mapa
+## Encontra-me no Mapa
 
 [![GitHub](https://img.shields.io/badge/GitHub-danivraposo-181717?style=for-the-badge&logo=github)](https://github.com/danivraposo)
 
