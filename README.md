@@ -16,7 +16,7 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
 
 ---
 
-## A minha Fellowship (Stack)
+## ⚔️ A minha Fellowship (Stack)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,postgres,docker,linux,laravel,js,powershell,arduino,android&theme=dark" />
@@ -24,7 +24,7 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
 
 ---
 
-## A minha humilde Jornada (Projetos)
+## 🗺️ A minha humilde Jornada (Projetos)
 
 | | Projeto | Descrição | Stack |
 |--|---------|-----------|-------|
@@ -35,19 +35,20 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
 
 ---
 
-## Nos registos de Minas Tirith (GitHub Stats)
+## 📜 Nos registos de Minas Tirith (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danivraposo&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&border_color=c9a84c" />
+  <img src="https://streak-stats.demolab.com?user=danivraposo&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&border=c9a84c" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivraposo&layout=compact&theme=dark&title_color=c9a84c&border_color=c9a84c" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danivraposo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danivraposo&theme=github_dark" />
 </p>
 
 ---
 
-## Encontra-me no Mapa
+## 📬 Encontra-me no Mapa
 
 [![GitHub](https://img.shields.io/badge/GitHub-danivraposo-181717?style=for-the-badge&logo=github)](https://github.com/danivraposo)
 
