@@ -41,11 +41,6 @@ Algures entre a **Shire** e **Mordor**, a forjar código que (espero) não preci
   <img src="https://streak-stats.demolab.com?user=danivraposo&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&border=c9a84c" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danivraposo&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danivraposo&theme=github_dark" />
-</p>
-
 ---
 
 ## 📬 Encontra-me no Mapa
